@@ -1,0 +1,16 @@
+.banner
+{
+ background-color:Lavender;
+ width:100%;
+ height:100px;
+  }
+
+.banner-text
+{
+top:75%;
+text-align:center;
+color:DarkMagenta;
+
+}
+body {
+       background-color:Thistle;}
